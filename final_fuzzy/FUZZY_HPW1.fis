@@ -1,5 +1,5 @@
 [System]
-Name='FUZZY_HPW1'
+Name='FUZZY_HPW'
 Type='mamdani'
 Version=2.0
 NumInputs=1
